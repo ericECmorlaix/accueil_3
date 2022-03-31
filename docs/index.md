@@ -93,7 +93,7 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
 
 - Enfin, pour valider un programme sur le matériel réel :
     - on raccorde une carte BBC micro:bit avec un cable sur un port USB de l'ordinateur. Le PC doit reconnaitre la carte comme un nouveau lecteur nommé : `MICROBIT (E:)` ;
-    - on ouvre l'éditeur micropython officiel [https://python.microbit.org/]([https://python.microbit.org/){target=_blank} ;
+    - on ouvre l'éditeur micropython officiel [https://python.microbit.org/](https://python.microbit.org/){target=_blank} ;
     - on cliquer sur le bouton `Connect`, et on sélectionne la carte `"BBC micro:bit CMSIS-DAP"` à associer, puis on clique sur le bouton `Connexion` pour établir la communication ;
     - Une fois connecté, on clique sur le bouton `Flash` pour charger le programme qui s'exécutera dès que la LED jaune située à l'arrière de la carte aura fini de clignoter ;
     - Pour revoir le résultat du programme une nouvelle fois, il faut redémarrer le BBC micro:bit en appuyant sur le bouton `RESET` situé à l'arrière de la carte...
