@@ -1,11 +1,20 @@
 # Bienvenu
 
+## Découvertes des spécialités SI et NSI en mode escape game
+
+- [Modélisation 3D en SI](./robot_3D) ;
+- [Notions d'électricité en SI]() ;
+- [Programmation d'un µC en SI et NSI](./BBC_microbit) ;
+- [Décryptage d'un message en NSI]() ;
+- [Codage d'un jeux en NSI]() ;
+
+
 ## Les spécialités scientifiques et technologiques au lycée
 
 - [Numérique et Science Informatique](http://si.lycee.ecmorlaix.fr/nsi/){target=_blank} ;
 
 - [Sciences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} ;
-
+<!-- 
 ## Exemple d'activité de programmation d'un BBC micro:bit :
 
 ### Mise en situation
@@ -216,4 +225,6 @@ Pour aller plus loins en programmation Python avec la carte BBC micro:bit :
 
 <!-- 
 http://2si.si.lycee.ecmorlaix.fr/Robotique/BBCmicrobit.html
- -->
+ --> 
+ 
+-->
