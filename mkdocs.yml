@@ -25,7 +25,12 @@ site_author: "Eric MADEC"
 docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
-    - index.md
+    - Bienvenu: index.md
+    - 3D : robot_3D.md
+    # - Elec : 
+    - µC : BBC_microbit.md
+    - Crypto : cryptographie.md
+
     
 
 # Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/

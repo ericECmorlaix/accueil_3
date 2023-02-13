@@ -1,12 +1,12 @@
-# Bienvenu
+# Bienvenu aux troisièmes
 
 ## Découvertes des spécialités SI et NSI en mode escape game
 
 - [Modélisation 3D en SI](./robot_3D) ;
 - [Notions d'électricité en SI]() ;
 - [Programmation d'un µC en SI et NSI](./BBC_microbit) ;
-- [Décryptage d'un message en NSI]() ;
-- [Codage d'un jeux en NSI]() ;
+- [Cryptographie en NSI](./cryptographie) ;
+- [Retro-Gaming en NSI]() ;
 
 
 ## Les spécialités scientifiques et technologiques au lycée
