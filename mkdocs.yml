@@ -27,10 +27,10 @@ docs_dir: docs
 nav: 
     - Bienvenu: index.md
     - 3D : 3D.md
-    - elec : elec.md
+    - Elec : Elec.md
     - µC : µC.md
-    - crypto : crypto.md
-    # - game : game.md
+    - Crypto : Crypto.md
+    # - game : Game.md
 
     
 

@@ -12,9 +12,11 @@ Ici le message secret est :
 oqlan rkqo wrav pnkqra ha xkj ykza
 ```
 
-Pour réussir à le décoder, il vous faudrait la clé de décalage.
+==Pour vous échapper, vous devez le décoder...==
 
-Afin d'éviter qu'une personne malveillante ne vole notre code de sécurité, nous vous donnons plutôt 2 indices de décryptage :
+Pour réussir cela, le plus simple serait de connaitre la clé du décalage utilisé ici.
+
+Cependant, afin d'éviter qu'une personne malveillante ne vole notre code de sécurité, nous vous donnons plutôt 2 indices de décryptage :
 
 
 === "**Indice n°1 :**"
