@@ -14,7 +14,7 @@ oqlan rkqo wrav pnkqra ha xkj ykza
 
 ==Pour vous échapper, vous devez le décoder...==
 
-Pour réussir cela, le plus simple serait de connaitre la clé du décalage utilisé ici.
+Aussi, pour réussir cela, le plus simple serait de connaitre la clé du décalage utilisé ici.
 
 Cependant, afin d'éviter qu'une personne malveillante ne vole notre code de sécurité, nous vous donnons plutôt 2 indices de décryptage :
 
@@ -28,7 +28,4 @@ Cependant, afin d'éviter qu'une personne malveillante ne vole notre code de sé
     - Les œufs sont pourris. 
 
 
-Une fois la phrase trouvée, vous prendrez la première lettre de chaque mot dans l'ordre pour constituer votre code d'échappement...
-
-
-![[Pasted image 20230131171145.jpg]]
+<iframe src="../crypto.html?embed=true" width="1100" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
