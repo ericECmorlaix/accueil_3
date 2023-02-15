@@ -27,9 +27,9 @@ docs_dir: docs
 nav: 
     - Bienvenu: index.md
     - Modélisation 3D : 3D.md
-    - Electricité : Elec.md
+    - Electricité : elec.md
     - MicroContrôleur : µC.md
-    - Cryptographie : Crypto.md
+    - Cryptographie : crypto.md
     # - RetroGaming : Game.md
 
     
