@@ -14,9 +14,9 @@ oqlan rkqo wrav pnkqra ha xkj ykza
 
 ==Pour vous échapper, vous devez le décoder...==
 
-Aussi, pour réussir cela, le plus simple serait de connaitre la clé du décalage utilisé ici.
+Le plus simple serait de connaitre la clé du décalage utilisé ici.
 
-Cependant, afin d'éviter qu'une personne malveillante ne vole notre code de sécurité, nous vous donnons plutôt 2 indices de décryptage :
+Mais, pour éviter qu'une personne malveillante ne vole notre code de sécurité, nous vous donnons plutôt 2 indices de décryptage :
 
 
 === "**Indice n°1 :**"
