@@ -28,4 +28,4 @@ Mais, pour éviter qu'une personne malveillante ne vole notre code de sécurité
     - Les œufs sont pourris. 
 
 
-<iframe src="../crypto.html?embed=true" width="1100" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="../test_crypto.html?embed=true" width="1100" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

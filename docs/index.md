@@ -3,10 +3,10 @@
 ## Découvertes des spécialités SI et NSI en mode escape game
 
 - [Modélisation 3D en SI](./3D) ;
-- [Notions d'électricité en SI](./Elec/#notions-delectricite-en-si) ;
+- [Notions d'électricité en SI](./Elec) ;
 - [Programmation d'un µC en SI et NSI](./µC) ;
-- [Cryptographie en NSI](./crypto) ;
-- [Retro-Gaming en NSI](./jeu) ;
+- [Cryptographie en NSI](./Crypto) ;
+- [Retro-Gaming en NSI](./Game) ;
 
 
 ## Les spécialités scientifiques et technologiques au lycée

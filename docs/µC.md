@@ -74,4 +74,4 @@ Cliquer sur le bouton `Envoyer vers micro:bit` puis suivre les instructions afin
 
 ## Etape 4
 
-<iframe src="../µC.html?embed=true" width="1099" height="778" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="../test_µC.html?embed=true" width="1099" height="778" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
