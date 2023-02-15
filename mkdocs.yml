@@ -26,11 +26,11 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
     - Bienvenu: index.md
-    - 3D : 3D.md
-    - Elec : Elec.md
-    - µC : µC.md
-    - Crypto : Crypto.md
-    # - game : Game.md
+    - Modélisation 3D : 3D.md
+    - Electricité : Elec.md
+    - MicroContrôleur : µC.md
+    - Cryptographie : Crypto.md
+    # - RetroGaming : Game.md
 
     
 
