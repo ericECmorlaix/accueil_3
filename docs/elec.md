@@ -3,13 +3,13 @@
 
 Dans notre quotidien, de plus en plus de systèmes fonctionnent grace à de l'énergie électrique.
 
-**Il est donc fondamental pour un ingénieur du XXI^ième^ siècle de maitriser ces notions !**
+**Il est donc fondamental pour un ingénieur du XXI^ième^ siècle de bien maitriser ces notions !**
 
 ==Pour constituer votre clé d'échappement, il va vous falloir réussir l'expérience d'électricité suivante :==
 
 ***
 
-???+ example "Expérimentation"
+???- example "Expérimentation"
 
     ## Exercice n°1
 

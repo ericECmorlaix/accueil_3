@@ -16,7 +16,7 @@ oqlan rkqo wrav pnkqra ha xkj ykza
 
 ***
 
-???+ example "Expérimentation"
+???- example "Expérimentation"
 
     Le plus simple serait de connaitre la clé du décalage utilisé ici.
 
@@ -33,6 +33,6 @@ oqlan rkqo wrav pnkqra ha xkj ykza
 
     **Deviner** la clé de décalage pour **déchiffrer** chaque lettre du message secret...
 
-???+ success "Vérification"
+???- success "Vérification"
 
     <iframe src="../test_crypto.html?embed=true" width="1100" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
