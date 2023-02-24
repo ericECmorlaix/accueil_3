@@ -29,5 +29,5 @@ Dans notre quotidien, de plus en plus de systèmes fonctionnent grace à de l'é
     <iframe src="../test2_elec.html?embed=true" width="1399" height="526" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
-
+--8<-- "sorties.md"
 

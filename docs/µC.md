@@ -76,3 +76,5 @@ Les microcontroleurs, aujourd'hui on les trouve partout, ce sont les puces élec
 ???- success "Vérification"
 
     <iframe src="../test_µC.html?embed=true" width="1099" height="778" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+--8<-- "sorties.md"

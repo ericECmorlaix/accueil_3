@@ -36,3 +36,5 @@ oqlan rkqo wrav pnkqra ha xkj ykza
 ???- success "Vérification"
 
     <iframe src="../test_crypto.html?embed=true" width="1100" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+--8<-- "sorties.md"
