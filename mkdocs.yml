@@ -25,7 +25,7 @@ site_author: "Eric MADEC"
 docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
-    - Bienvenu: index.md
+    - Bienvenue: index.md
     - Modélisation 3D : 3D.md
     - Electricité : elec.md
     - MicroContrôleur : µC.md
