@@ -6,9 +6,8 @@
 - [Notions d'électricité en SI](./elec) ;
 - [Programmation d'un µC en SI et NSI](./µC) ;
 - [Cryptographie en NSI](./crypto) ;
-<!-- 
 - [Retro-Gaming en NSI](./game) ;
- -->
+
 
 ## Les spécialités scientifiques et technologiques au lycée
 
