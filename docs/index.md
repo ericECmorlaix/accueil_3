@@ -11,7 +11,7 @@
 
 ## Les spécialités scientifiques et technologiques au lycée
 
-- [Numérique et Science Informatique](http://si.lycee.ecmorlaix.fr/nsi/){target=_blank} ;
+- [Numérique et Science Informatique](https://ericecmorlaix.github.io/nsi/){target=_blank} ;
 
-- [Sciences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} ;
+- [Sciences de l'Ingénieur](https://ericecmorlaix.github.io/si/){target=_blank} ;
 
