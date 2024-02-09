@@ -1,7 +1,7 @@
 ![GameOver.png](../images/GameOver.png){width=40% align=right}
 # Programmation d'un jeu en NSI
 
-En Numérique et Sciences Informatique, les élèves participeront au marathon de programmation de la [Nuit de Code](https://www.nuitducode.net/){target=_blank} le 23 mai de cette année : par équipe de deux ou trois, ils auront une soirée de 6h pour programmer un jeu de type retro-gaming en Python.
+En Numérique et Sciences Informatique, les élèves participeront au marathon de programmation de la [Nuit de Code](https://www.nuitducode.net/){target=_blank} en fin d'année : par équipe de deux ou trois, ils auront une soirée de 6h pour programmer un jeu de type retro-gaming en Python.
 
 **Si vous souhaitez y participer, demandez le à vos professeurs car cet évènement est également accessible aux collégiens avec Scratch. Il est cependant nécessaire de s'y entrainer au préalable...** 
 
